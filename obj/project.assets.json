@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rlago\\Documents\\Aula1\\Aula1.csproj",
-      "projectName": "Aula1",
-      "projectPath": "C:\\Users\\rlago\\Documents\\Aula1\\Aula1.csproj",
+      "projectUniqueName": "C:\\Users\\rlago\\Documents\\Estudos de C# e .NET\\Aula2\\Aula 2.csproj",
+      "projectName": "Aula 2",
+      "projectPath": "C:\\Users\\rlago\\Documents\\Estudos de C# e .NET\\Aula2\\Aula 2.csproj",
       "packagesPath": "C:\\Users\\rlago\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rlago\\Documents\\Aula1\\obj\\",
+      "outputPath": "C:\\Users\\rlago\\Documents\\Estudos de C# e .NET\\Aula2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rlago\\AppData\\Roaming\\NuGet\\NuGet.Config"
